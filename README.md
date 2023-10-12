@@ -8,10 +8,6 @@
 
   <p align="center">
     Projet libft of 42 school
-    <br />
-    <a href="https://github.com/dooorian/Libft/master/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
   </p>
 </p>
 
