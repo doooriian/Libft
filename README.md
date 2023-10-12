@@ -17,11 +17,10 @@
 
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jdecorte-be/42-Libft?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jdecorte-be/42-Libft?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/jdecorte-be/42-Libft?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jdecorte-be/42-Libft?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jdecorte-be/42-Libft?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=lightblue" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=critical" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=green" />
 </p>
 
 
