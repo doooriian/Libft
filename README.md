@@ -118,3 +118,6 @@ $ make fclean
 $ make re
 
 ```
+
+![Votre Score](nom_de_votre_image.png)
+
