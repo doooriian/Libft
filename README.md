@@ -120,7 +120,7 @@ $ make re
 ```
 # 🔗 Link to a third party Tester
 
-One of the testers I used : [LibftTester](lien_de_votre_redirection)
+One of the testers I used : [LibftTester](https://github.com/Tripouille/libftTester)
 
 # :white_check_mark: My Libft Results
 
