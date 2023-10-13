@@ -122,7 +122,7 @@ $ make fclean
 $ make re
 
 ```
-# 🔗 Tester
+# :link: Tester
 
 One of the third party testers I used : [LibftTester](https://github.com/Tripouille/libftTester)
 
