@@ -31,7 +31,7 @@
 * [List of Functions](#bookmark_tabs-List-of-Fucntions)
 * [Technologies](#computer-Technologies)
 * [How to Run](#construction_worker-How-to-Run)
-* [Tester](#chain-Tester)
+* [Tester](#link-Tester)
 
 # :sparkles: What is Libft?
 
