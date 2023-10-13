@@ -7,7 +7,7 @@
   <h3 align="center">Libft</h3>
 
 <p align="center">
-  <a href="https://github.com/mendes-jv/libft" target="_blank">
+  <a href="https://github.com/doooriian/Libft" target="_blank">
     <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft" width="150">
   </a>
 </p>
