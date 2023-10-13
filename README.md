@@ -32,6 +32,7 @@
 * [Technologies](#computer-Technologies)
 * [How to Run](#construction_worker-How-to-Run)
 * [Tester](#link-Tester)
+* [My Libft Results](#white_check_mark-My-Libft-Results)
 
 # :sparkles: What is Libft?
 
