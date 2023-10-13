@@ -31,7 +31,7 @@
 * [List of Functions](#bookmark_tabs-List-of-Fucntions)
 * [Technologies](#computer-Technologies)
 * [How to Run](#construction_worker-How-to-Run)
-* [Find a Bug? Or somenthing need to change?](#bug-Issues)
+* [Tester](#chain-Tester)
 
 # :sparkles: What is Libft?
 
@@ -122,9 +122,9 @@ $ make fclean
 $ make re
 
 ```
-# 🔗 Link to a third party Tester
+# 🔗 Tester
 
-One of the testers I used : [LibftTester](https://github.com/Tripouille/libftTester)
+One of the third party testers I used : [LibftTester](https://github.com/Tripouille/libftTester)
 
 # :white_check_mark: My Libft Results
 
