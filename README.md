@@ -6,6 +6,10 @@
 
   <h3 align="center">Libft</h3>
 
+<p align="center">
+	<img alt="125/100" src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" />
+</p>
+
   <p align="center">
     Projet libft of 42 school
   </p>
@@ -18,8 +22,6 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=green" />
 </p>
-
-
 
 # :pushpin: Index
 
@@ -124,5 +126,5 @@ One of the testers I used : [LibftTester](https://github.com/Tripouille/libftTes
 
 # :white_check_mark: My Libft Results
 
-![Votre Score](https://github.com/doooriian/Badges/blob/main/Grade.png)
+![Votre Score](https://github.com/doooriian/42-Badges/blob/main/badges/LibftGrade.png)
 
