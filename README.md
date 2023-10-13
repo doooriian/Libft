@@ -14,7 +14,7 @@
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=green" />
 </p>
