@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/30 21:29:39 by doley             #+#    #+#             */
-/*   Updated: 2024/10/11 19:52:23 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 21:48:32 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,7 +58,7 @@ int		ft_isalpha(int c);
 int		ft_isalnum(int c);
 void	*ft_calloc(size_t nmemb, size_t size);
 void	ft_bzero(void *s, size_t n);
-int		ft_atoi(char *str);
+int		ft_atoi(const char *str);
 
 /* BONUS */
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));

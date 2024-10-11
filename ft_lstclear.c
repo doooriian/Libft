@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/11 19:29:32 by doley             #+#    #+#             */
-/*   Updated: 2024/10/11 19:38:05 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 22:18:31 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,11 +18,11 @@ void	ft_lstclear(t_list **lst, void (*del)(void *))
 
 	if (!lst || !(*lst) || !del)
 		return ;
-	while ((*lst)->next)
+	while (*lst)
 	{
 		tmp = (*lst)->next;
 		ft_lstdelone(*lst, del);
 		*lst = tmp;
 	}
-	lst = NULL;
+	*lst = NULL;
 }

@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/30 22:01:04 by doley             #+#    #+#             */
-/*   Updated: 2024/09/30 22:24:51 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 22:05:25 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,9 +17,7 @@ void	*ft_calloc(size_t nmemb, size_t size)
 	void	*ptr;
 	size_t	total;
 
-	if (nmemb == 0 || size == 0)
-		return (NULL);
-	if (nmemb > SIZE_MAX / size)
+	if (size && nmemb > SIZE_MAX / size)
 		return (NULL);
 	total = nmemb * size;
 	ptr = malloc(total);

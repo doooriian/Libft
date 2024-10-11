@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/09 18:44:35 by doley             #+#    #+#             */
-/*   Updated: 2024/10/09 19:57:59 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 22:34:21 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,6 @@ static void	ft_free_tab(char **tab, int i)
 	}
 	free(tab);
 }
-
 
 static int	ft_fill_tab(char **tab, const char *s, char c)
 {

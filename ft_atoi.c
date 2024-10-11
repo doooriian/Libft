@@ -6,13 +6,13 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/30 21:29:49 by doley             #+#    #+#             */
-/*   Updated: 2024/10/02 18:10:56 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 21:48:15 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-int	ft_atoi(char *str)
+int	ft_atoi(const char *str)
 {
 	int	i;
 	int	res;
