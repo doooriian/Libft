@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/10 18:52:43 by doley             #+#    #+#             */
-/*   Updated: 2024/10/10 20:32:29 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 21:35:48 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void	ft_striteri(char *s, void (*f)(unsigned int, char*))
 	unsigned int	i;
 
 	if (!s || !f)
-		return (NULL);
+		return ;
 	i = 0;
 	while (s[i])
 	{

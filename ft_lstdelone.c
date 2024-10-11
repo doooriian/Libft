@@ -6,7 +6,7 @@
 /*   By: doley <doley@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/11 19:19:55 by doley             #+#    #+#             */
-/*   Updated: 2024/10/11 19:29:10 by doley            ###   ########.fr       */
+/*   Updated: 2024/10/11 21:36:13 by doley            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 void	ft_lstdelone(t_list *lst, void (*del)(void *))
 {
 	if (!lst || !del)
-		return (NULL);
+		return ;
 	del(lst->content);
 	free(lst);
 }
