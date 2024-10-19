@@ -25,15 +25,6 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=green" />
 </p>
 
-# :pushpin: Index
-
-* [What's this Repo?](#sparkles-What-is-Libft?)
-* [List of Functions](#bookmark_tabs-List-of-Fucntions)
-* [Technologies](#computer-Technologies)
-* [How to Run](#construction_worker-How-to-Run)
-* [Tester](#link-Tester)
-* [My Libft Results](#white_check_mark-My-Libft-Results)
-
 # :sparkles: What is Libft?
 
 Libft is an individual project at 42 that requires us to re-create some standard C library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.
