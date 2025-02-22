@@ -15,12 +15,11 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=lightblue" />
-  <img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=yellow" />
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=blue" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=green" />
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=1A237E" />
+  <img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=00BCD4" />
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=7B1FA2" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=D32F2F" />
 </p>
-
 ---
 
 ## ✨ Overview
