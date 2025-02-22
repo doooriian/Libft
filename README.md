@@ -130,4 +130,4 @@ Here’s my score for the Libft project:
 
 ## 📬 Contact
 
-Feel free to reach out or contribute to this project via [GitHub](https://github.com/doooriian/Libft)!
+Feel free to reach out or contribute to this project via [GitHub](https://github.com/doooriian)!
