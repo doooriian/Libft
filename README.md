@@ -80,14 +80,14 @@ Custom utility functions:
 
 ### 🔗 Linked List Functions
 Functions for linked list management:
-- [`ft_lstnew`](https://github.com/doooriian/Libft/blob/main/ft_lstnew.c) — Creates a new linked list node.
-- [`ft_lstadd_front`](https://github.com/doooriian/Libft/blob/main/ft_lstadd_front.c) — Adds a node to the front of the list.
-- [`ft_lstsize`](https://github.com/doooriian/Libft/blob/main/ft_lstsize.c) — Counts the number of nodes in the list.
-- [`ft_lstlast`](https://github.com/doooriian/Libft/blob/main/ft_lstlast.c) — Returns the last node of the list.
-- [`ft_lstadd_back`](https://github.com/doooriian/Libft/blob/main/ft_lstadd_back.c) — Adds a node to the end of the list.
-- [`ft_lstclear`](https://github.com/doooriian/Libft/blob/main/ft_lstclear.c) — Deletes and frees the entire list.
-- [`ft_lstiter`](https://github.com/doooriian/Libft/blob/main/ft_lstiter.c) — Applies a function to each list element.
-- [`ft_lstmap`](https://github.com/doooriian/Libft/blob/main/ft_lstmap.c) — Maps a function over the list, creating a new one.
+- [`ft_lstnew`](https://github.com/doooriian/Libft/blob/main/ft_lstnew_bonus.c) — Creates a new linked list node.
+- [`ft_lstadd_front`](https://github.com/doooriian/Libft/blob/main/ft_lstadd_front_bonus.c) — Adds a node to the front of the list.
+- [`ft_lstsize`](https://github.com/doooriian/Libft/blob/main/ft_lstsize_bonus.c) — Counts the number of nodes in the list.
+- [`ft_lstlast`](https://github.com/doooriian/Libft/blob/main/ft_lstlast_bonus.c) — Returns the last node of the list.
+- [`ft_lstadd_back`](https://github.com/doooriian/Libft/blob/main/ft_lstadd_back_bonus.c) — Adds a node to the end of the list.
+- [`ft_lstclear`](https://github.com/doooriian/Libft/blob/main/ft_lstclear_bonus.c) — Deletes and frees the entire list.
+- [`ft_lstiter`](https://github.com/doooriian/Libft/blob/main/ft_lstiter_bonus.c) — Applies a function to each list element.
+- [`ft_lstmap`](https://github.com/doooriian/Libft/blob/main/ft_lstmap_bonus.c) — Maps a function over the list, creating a new one.
 
 ---
 
