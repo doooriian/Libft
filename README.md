@@ -99,22 +99,22 @@ Functions for linked list management:
 
 ## 🚀 How to Build and Run
 
-Clone the repository and use the following commands in your terminal:
+1. Clone repository
+    ```bash
+    git clone git@github.com:teresa-chow/42-libft.git
+    ```
 
-```bash
-# Compile the library and run all tests
-make all
+2. Go inside project directory and run `make`
+    ```bash
+    cd libft
+    make
+    ```
+3. To use the library in your code, `#include` the following header
+    ```c
+    #include "libft.h"
 
-# Remove object files
-make clean
+</br>
 
-# Remove object files and the library archive
-make fclean
-
-# Clean everything and recompile
-make re
-
-```
 
 ## 🧪 Testing
 
