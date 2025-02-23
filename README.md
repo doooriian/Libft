@@ -101,12 +101,12 @@ Functions for linked list management:
 
 1. Clone repository
     ```bash
-    git clone git@github.com:teresa-chow/42-libft.git
+    git clone git@github.com:doooriian/Libft.git
     ```
 
 2. Go inside project directory and run `make`
     ```bash
-    cd libft
+    cd Libft
     make
     ```
 3. To use the library in your code, `#include` the following header
