@@ -3,7 +3,6 @@
   <a href="https://42.fr/">
     <img src="https://github.com/doooriian/42-Badges/blob/main/42_Logo.png" alt="42 Logo" width="250" height="250">
   </a>
-</p>
 
   <h1 align="center">Libft</h1>
 
