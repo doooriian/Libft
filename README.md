@@ -4,24 +4,16 @@
 
 # Libft
 
-**42 School · 📚 Software engineering project**
+**42 School project · C utility library**
 
 <img src="https://img.shields.io/badge/42_Project-C%20%7C%20Library-7C3AED?style=flat-square" alt="Libft technology" />
 <img src="https://img.shields.io/badge/Documentation-Project_Overview-334155?style=flat-square" alt="Project documentation" />
 
 </div>
 
----
-
-
----
-
 ## 🔎 Overview
 
 A reusable C library implementing essential string, memory, character and linked-list utilities for later 42 projects.
-
-
----
 
 ## ✨ Features
 
@@ -30,17 +22,11 @@ A reusable C library implementing essential string, memory, character and linked
 - Conversion and allocation helpers (`ft_atoi`, `ft_itoa`, `ft_calloc`)
 - Bonus linked-list operations (`ft_lstnew`, `ft_lstmap`, `ft_lstclear`)
 
-
----
-
 ## 🧩 Technical approach
 
 The library exposes a small C API through `libft.h`. Each routine is implemented separately to keep the code straightforward to inspect and reuse.
 
 > **Tech stack** · C · Make · Static library.
-
-
----
 
 ## 🚀 Build and usage
 
@@ -57,15 +43,9 @@ make bonus    # include linked-list functions
 make fclean   # remove build outputs
 ```
 
-
----
-
 ## 🧪 Verification
 
 Review the output with representative inputs and edge cases. No automated CI test suite is included in this repository; build and behaviour should be verified in a compatible local environment.
-
-
----
 
 ## ⚠️ Notes and limitations
 
