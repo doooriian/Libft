@@ -2,8 +2,6 @@
 
 > **42 School project** · C · Standard library foundations
 
-A reusable C library implementing essential string, memory, character and linked-list utilities for later 42 projects.
-
 ## Overview
 
 A reusable C library implementing essential string, memory, character and linked-list utilities for later 42 projects.
