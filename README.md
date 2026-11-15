@@ -1,24 +1,14 @@
-<p align="center">
-  <a href="https://42.fr/">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/42_Logo.png" alt="42 Logo" width="100" height="100">
-  </a>
+<div align="center">
 
-  <h1 align="center">Libft</h1>
+<a href="https://42.fr/"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/libftm.png" width="125" alt="Libft 42 project badge" /></a>
 
-  <p align="center">
-    A custom C library project from 42 School
-    <br />
-    <br />
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft Badge" width="125">
-  </p>
-<p align="center"><img src="https://img.shields.io/badge/42%20School-Project-7C3AED?style=flat-square" alt="42 School project" /></p>
+# Libft
 
-<p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=1A237E" />
-  <img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=00BCD4" />
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=7B1FA2" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=D32F2F" />
-</p>
+**C utility library**
+
+<img src="https://img.shields.io/badge/42%20School-Project-7C3AED?style=flat-square" alt="42 School project" />
+
+</div>
 
 ---
 
