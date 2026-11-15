@@ -1,29 +1,18 @@
-<br />
-<p align="center">
-  <a href="https://42.fr/">
-    <img src="https://github.com/doooriian/42-Badges/blob/main/42_Logo.png" alt="42 Logo" width="250" height="250">
-  </a>
+<div align="center">
 
-  <h1 align="center">Libft</h1>
+<a href="https://42.fr/"><img src="https://raw.githubusercontent.com/doooriian/42-Badges/main/badges/libftm.png" width="125" alt="Libft 42 project badge" /></a>
 
-  <p align="center">
-    A custom C library project from 42 School
-    <br />
-    <br />
-    <img src="https://github.com/doooriian/42-Badges/blob/main/badges/libftm.png" alt="Libft Badge" width="150">
-  </p>
-</p>
+# Libft
 
-<p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/doooriian/Libft?color=1A237E" />
-  <img alt="Code language count" src="https://img.shields.io/github/languages/count/doooriian/Libft?color=00BCD4" />
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/doooriian/Libft?color=7B1FA2" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doooriian/Libft?color=D32F2F" />
-</p>
+**C utility library**
+
+<img src="https://img.shields.io/badge/42%20School-Project-7C3AED?style=flat-square" alt="42 School project" />
+
+</div>
 
 ---
 
-## ✨ Overview
+## 🔎 Overview
 
 **Libft** is an individual project at 42 School aimed at recreating essential C standard library functions, along with additional utilities. This library serves as a foundation for future projects at 42, where the use of certain standard libraries is restricted. As we progress through the curriculum, this library will expand with more custom functions tailored to our needs.
 
@@ -31,7 +20,7 @@ The goal? Build a robust, reusable, and efficient set of tools from scratch.
 
 ---
 
-## 📑 Function Categories
+## ✨ Function Categories
 
 ### 📚 `<ctype.h>` Functions
 Functions for character handling:
@@ -110,18 +99,14 @@ Functions for linked list management:
     cd Libft
     make
     ```
-3. To use the library in your code, `#include` the following header
-    ```c
-    #include "libft.h"
-
-</br>
+3. Include `libft.h` in your project and link `libft.a` when compiling. For linked-list functions, run `make bonus`.
 
 
 ## 🧪 Testing
 
 This project was tested using **[Francinette](https://github.com/xicodomingues/francinette)**, a widely-used third-party tester designed for 42 School projects.
 
-## ✅ Results
+## 🏅 Results
 
 Here’s my score for the Libft project:
 
